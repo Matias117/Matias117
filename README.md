@@ -1,5 +1,14 @@
 ### Hello world 👋
 
+I am bigdata and automation developer and cybersecurity passionate
+
+- 🔭 I’m currently working on developing my own business
+- 🌱 I’m currently learning penetration testing
+
+<br>## Expertise<br>
+<img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img align="left" alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /><img align="left" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /><img align="left" alt="presto" src="https://img.shields.io/badge/Presto-131F37?style=for-the-badge&logo=presto&logoColor=white" /><img align="left" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img align="left" alt="kali" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
+<br>
+
 <!--
 **Matias117/Matias117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
